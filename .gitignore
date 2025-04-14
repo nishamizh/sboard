@@ -4,4 +4,6 @@ data_wrangled_reviews_amazon.csv
 Frequentist Case Study/.DS_Store
 Frequentist Case Study/Frequentist Inference Case Study - Part A (3) copy.ipynb
 Project Files/
-sub/
+sub/data_wrangled_reviews_amazon.csv
+archive.zip
+amazon_review_full_csv.tar.gz
